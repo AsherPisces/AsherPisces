@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **thaihiep232002/thaihiep232002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
